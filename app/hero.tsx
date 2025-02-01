@@ -18,12 +18,12 @@ export const Hero = () => {
           Programmer.
         </h1>
         <p className="text-zinc-600 font-medium max-w-md text-[15px] max-md:text-sm">
-          Hey, I'm Ryan. I first got into web development back in 2019 and have
-          been building things on the internet ever since.
+          Hey, I&apos;m Ryan. I first got into web development back in 2019 and
+          have been building things on the internet ever since.
         </p>
         <p className="text-zinc-600 font-medium max-w-md text-[15px] max-md:text-sm">
-          Some of the top technologies I've been working with are Next.js,
-          Typescript, and Tailwind.
+          Some of the top technologies I&apos;ve been working with lately are
+          Next.js, Typescript, and Tailwind.
         </p>
       </div>
       <div className="flex gap-3">

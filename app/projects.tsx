@@ -31,11 +31,11 @@ export const Projects = () => {
     <div className="space-y-8">
       <div className="space-y-1">
         <h2 className="text-2xl font-extrabold tracking-tight max-md:text-xl">
-          Some projects I'm proud of
+          Some projects I&apos;m proud of
         </h2>
         <p className="text-zinc-600 font-medium text-[15px] max-md:text-sm">
-          I've worked on a lot of projects over the years, but these are the
-          ones I'm most proud of.
+          I&apos;ve worked on a lot of projects over the years, but these are
+          the ones I&apos;m most proud of. ones I&apos;m most proud of.
         </p>
       </div>
       <div className="grid grid-cols-3 gap-4 max-md:grid-cols-1">
