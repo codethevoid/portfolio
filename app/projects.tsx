@@ -35,7 +35,7 @@ export const Projects = () => {
         </h2>
         <p className="text-zinc-600 font-medium text-[15px] max-md:text-sm">
           I&apos;ve worked on a lot of projects over the years, but these are
-          the ones I&apos;m most proud of. ones I&apos;m most proud of.
+          the ones I&apos;m most proud of.
         </p>
       </div>
       <div className="grid grid-cols-3 gap-4 max-md:grid-cols-1">
