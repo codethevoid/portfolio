@@ -23,6 +23,7 @@ const data = [
     description:
       "An ecommerce website for keyboards and other keyboard accessories.",
     website: "https://pryzma.io",
+    github: "https://github.com/codethevoid/pryzma-storefront",
   },
 ];
 
