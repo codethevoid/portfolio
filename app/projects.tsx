@@ -18,7 +18,7 @@ const data = [
     github: "https://github.com/codethevoid/qryptic",
   },
   {
-    image: "/pryzma.png",
+    image: "/pryzma.webp",
     title: "Pryzma",
     description:
       "An ecommerce website for keyboards and other keyboard accessories.",
