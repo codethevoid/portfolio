@@ -2,12 +2,11 @@ import Image from "next/image";
 
 const data = [
   {
-    image: "/motion.png",
-    title: "Motion",
-    description:
-      "Browser wallet and decentralized exchange built on the XRP Ledger.",
-    website: "https://motion.zip",
-    github: "https://github.com/codethevoid/motion",
+    image: '/restash.jpg',
+    title: 'Restash',
+    description: 'Open-source modern object storage solution for developers.',
+    website: 'https://restash.io',
+    github: 'https://github.com/restashio'
   },
   {
     image: "/qryptic.png",
@@ -25,6 +24,14 @@ const data = [
     website: "https://pryzma.io",
     github: "https://github.com/codethevoid/pryzma-storefront",
   },
+  {
+    image: "/motion.png",
+    title: "Motion",
+    description:
+      "Browser wallet and decentralized exchange built on the XRP Ledger.",
+    website: "https://motion.zip",
+    github: "https://github.com/codethevoid/motion",
+  },
 ];
 
 export const Projects = () => {
@@ -39,7 +46,7 @@ export const Projects = () => {
           the ones I&apos;m most proud of.
         </p>
       </div>
-      <div className="grid grid-cols-3 gap-4 max-md:grid-cols-1">
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 grid-cols-1">
         {data.map((project, i) => (
           <div
             key={project.title}
@@ -53,7 +60,7 @@ export const Projects = () => {
                   width={38}
                   height={38}
                   className="rounded"
-                  quality={100}
+                  quality={90}
                 />
               </div>
               <p className="text-zinc-400 tabular-nums text-xs font-mono">
