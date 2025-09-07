@@ -3,6 +3,11 @@ import { ArrowUpRight } from "lucide-react";
 
 const projects = [
   {
+    title: "Smallcap",
+    description: "The modern research platform for small cap traders",
+    href: "https://smallcap.io",
+  },
+  {
     title: "Restash",
     description: "Global object storage built for developers",
     href: "https://restash.io",
